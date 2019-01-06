@@ -10,9 +10,9 @@
   
   Os principais objetivos traçados neste projeto foram:
   
-   Determinar como as ocorrências de roubo de celular evoluiram em relação ao tempo.
-   Determinar os períodos onde ocorrem os maiores números de roubo de celular.
-   Determinar os lugradouros, bairros e regiões com maiores números de roubo de celular.
-   Determinar os locais com maiores números de roubo de celular.
-   Determinar veículos com maiores números de roubo de celular em veículo.
-   Utilizar o modelo ARIMA para prever o número de ocorrências nos próximos anos.
+     Determinar como as ocorrências de roubo de celular evoluiram em relação ao tempo.
+     Determinar os períodos onde ocorrem os maiores números de roubo de celular.
+     Determinar os lugradouros, bairros e regiões com maiores números de roubo de celular.
+     Determinar os locais com maiores números de roubo de celular.
+     Determinar veículos com maiores números de roubo de celular em veículo.
+     Utilizar o modelo ARIMA para prever o número de ocorrências nos próximos anos.
