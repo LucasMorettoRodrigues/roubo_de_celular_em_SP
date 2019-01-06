@@ -6,6 +6,13 @@
   
   O conjunto de dados fornecem informações das ocorrências como data, período, logradouro, longitude, latitude, bairro, entre outros. 
   Informações que podem esconder padrões que podem fornecer informações interessantes e importantes na estratégia de combate a esses
-  crimes.
+  crimes. Além disso, o histórico das ocorrências pode ser utilizado para prever o número de ocorrências dos próximos meses ou anos.
   
-Repositório do projeto de estudo das ocorrências de roubo de celular na capital de São Paulo.
+  Os principais objetivos traçados neste projeto foram:
+  
+    Determinar como as ocorrências de roubo de celular evoluiram em relação ao tempo.
+    Determinar os períodos onde ocorrem os maiores números de roubo de celular.
+    Determinar os lugradouros, bairros e regiões com maiores números de roubo de celular.
+    Determinar os locais com maiores números de roubo de celular.
+    Determinar veículos com maiores números de roubo de celular em veículo.
+    Utilizar o modelo ARIMA para prever o número de ocorrências nos próximos anos.
