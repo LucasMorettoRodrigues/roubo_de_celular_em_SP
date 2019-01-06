@@ -17,6 +17,8 @@
      Determinar veículos com maiores números de roubo de celular em veículo.
      Utilizar o modelo ARIMA para prever o número de ocorrências nos próximos anos.
      
+
+
 Link para visualização do notebook pelo NBViewer: (necessário para visualização dos gráficos)    
 
 https://nbviewer.jupyter.org/github/LucasMorettoRodrigues/roubo_de_celular_em_SP/blob/7802bc3e5ffa592c9acfd5f2495d405cebfeac46/Estudo_dos_Roubos_de_Celulares_na_Capital_de_S%C3%A3o_Paulo.ipynb
